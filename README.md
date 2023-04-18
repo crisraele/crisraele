@@ -8,7 +8,7 @@
 # Sobre Mim 🚀
 
 👩‍💻 Sou desenvolvedora fullstack formada pela Recode, apaixonada pelo desenvolvimento Web e por tudo que a tecnologia pode proporcionar. <br>
-💼 Atualmente trabalho como desenvolvedora fullstack na SinglePoint e também atuo como freelancer <br>
+💼 Atualmente trabalho como Analista de Sistemas no BV <br>
 <br>
 
 
